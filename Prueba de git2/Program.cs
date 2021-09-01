@@ -14,10 +14,7 @@ namespace Prueba_de_git2
                 case 1:
                     Console.WriteLine("Emmanuel julio edad 29 años tell 1138427868");
                     break;
-                case 10:
-                    Console.WriteLine("Javier edad 22 años tell ahhhhhhhhhhhhhh");
-                    break;
-            }
+                }
         }
     }
 }
