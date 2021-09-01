@@ -1,0 +1,16 @@
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\bin\Debug\net5.0\Prueba de git2.exe
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\bin\Debug\net5.0\Prueba de git2.deps.json
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\bin\Debug\net5.0\Prueba de git2.runtimeconfig.json
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\bin\Debug\net5.0\Prueba de git2.runtimeconfig.dev.json
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\bin\Debug\net5.0\Prueba de git2.dll
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\bin\Debug\net5.0\ref\Prueba de git2.dll
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\bin\Debug\net5.0\Prueba de git2.pdb
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.csproj.AssemblyReference.cache
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.AssemblyInfo.cs
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.dll
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\ref\Prueba de git2.dll
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.pdb
+C:\Users\Emmanuel\source\repos\Prueba de git2\Prueba de git2\obj\Debug\net5.0\Prueba de git2.genruntimeconfig.cache
