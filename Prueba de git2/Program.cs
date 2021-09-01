@@ -8,6 +8,7 @@ namespace Prueba_de_git2
         {
             Console.WriteLine("Selecione el miembro de los borbotones");
             Console.WriteLine("1 Emmanuel Julio");
+            Console.WriteLine("2 Carlos Suarez");
             int opcion = Convert.ToInt32(Console.ReadLine());
             switch (opcion)
                 {
