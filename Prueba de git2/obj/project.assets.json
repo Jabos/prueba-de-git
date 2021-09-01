@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emmanuel\\source\\repos\\Prueba de git2\\Prueba de git2\\Prueba de git2.csproj",
+      "projectUniqueName": "C:\\Users\\Emmanuel\\Source\\Repos\\prueba-de-git\\Prueba de git2\\Prueba de git2.csproj",
       "projectName": "Prueba de git2",
-      "projectPath": "C:\\Users\\Emmanuel\\source\\repos\\Prueba de git2\\Prueba de git2\\Prueba de git2.csproj",
+      "projectPath": "C:\\Users\\Emmanuel\\Source\\Repos\\prueba-de-git\\Prueba de git2\\Prueba de git2.csproj",
       "packagesPath": "C:\\Users\\Emmanuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emmanuel\\source\\repos\\Prueba de git2\\Prueba de git2\\obj\\",
+      "outputPath": "C:\\Users\\Emmanuel\\Source\\Repos\\prueba-de-git\\Prueba de git2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
